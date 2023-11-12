@@ -1,0 +1,3 @@
+pandas==1.4.1
+ploty==5.16.1
+mysql.connector==8.2.0
